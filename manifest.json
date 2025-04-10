@@ -1,6 +1,6 @@
 {
-    "name": "Raloc Clock-In",
-    "short_name": "Clock-In",
+    "name": "Raloc Clock-Out",
+    "short_name": "Clock-Out",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
@@ -12,7 +12,7 @@
         "sizes": "192x192"
       },
       {
-        "src": "/path-to-logo/logo-512.png",
+        "src": "ogo-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
